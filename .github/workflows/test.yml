@@ -19,4 +19,4 @@ jobs:
         uses: bahmutov/npm-install@v1
         
       - name: Run Jest
-        run: npm run test
+        run: npm run test:github
