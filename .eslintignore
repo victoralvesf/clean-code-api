@@ -1,3 +1,15 @@
+# Editors
+.idea
+.vscode
+
+# MacOS
+.DS_Store
+
+# Library
 node_modules
+
+# Generated files
 dist
+
+# Coverage reports
 coverage
